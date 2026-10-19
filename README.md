@@ -10,7 +10,7 @@ I'm a computer science student at USF. I build web apps and spend a lot of my pr
   <a href="mailto:mallasanjay2099@gmail.com">Say hello</a>
 </p>
 
-My portfolio has the longer version: my background, project details, and an interactive globe to explore.
+My portfolio has the longer version: my background, more projects, and their details at:
 
 <a href="https://sanjaymalla.com">
   <picture>

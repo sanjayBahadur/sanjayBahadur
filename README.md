@@ -10,9 +10,10 @@ I'm a computer science student at USF. I build web apps and spend a lot of my pr
   <a href="mailto:mallasanjay2099@gmail.com">Say hello</a>
 </p>
 
-My portfolio has the longer version: my background, more projects, and their details at:
+My portfolio has the longer version: my background, more projects, and their details at: 
 
-<a href="https://sanjaymalla.com">
+<a href="https://sanjaymalla.com">sanjaymalla.com</a>
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanjayBahadur/sanjayBahadur/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sanjayBahadur/sanjayBahadur/output/pacman-contribution-graph.svg">

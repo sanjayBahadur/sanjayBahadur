@@ -1,39 +1,18 @@
-# Sanjay Malla
+# Hey, I'm Sanjay
 
-Computer science student at USF. I build machine learning systems, developer tooling and interactive web applications, and I like projects where the interesting part is the engineering underneath.
+I'm a computer science student at USF. I build web apps and spend a lot of my project time exploring machine learning, sensing, and how things work underneath.
 
-[Website](https://sanjaymalla.com) · [Email](mailto:mallasanjay2099@gmail.com) · [GitHub](https://github.com/sanjayBahadur)
+**[Visit my portfolio →](https://sanjaymalla.com)**
 
-## Selected work
+More about me, my background, and the projects I've been building.
 
-| Project | What it does | Stack |
-|---|---|---|
-| [AFK Orchestrator](https://github.com/sanjayBahadur/AFK-orchestrator) | Development harness that interrogates a plan until every ambiguity is recorded, gets sign-off, then coordinates parallel AI agents to build it. | TypeScript |
-| [AlfredML](https://github.com/sanjayBahadur/AlfredML) | Local retrieval-augmented generation assistant that answers questions over personal documents, fully offline, using Ollama. | Python |
-| [WATERLINE](https://github.com/sanjayBahadur/WATERLINE) | Flood extent segmentation from Sentinel-1 radar imagery. | Python |
-| [pqpake-artifact](https://github.com/sanjayBahadur/pqpake-artifact) | Post-quantum key exchange implementations and evaluation scripts based on Ring-LWE and Module-LWE. | Python, Jupyter |
-| [Space Defenders: 21st Century](https://github.com/sanjayBahadur/SPACE-DEFENDERS-21st-Century) | Browser space-defense game driven by real-time hand gestures (MediaPipe Hands), with keyboard fallback controls. | TypeScript |
-| [Algorithm Simulator](https://github.com/sanjayBahadur/Algorithm-Simulator) | Interactive visualizer for algorithms encountered in coursework. | TypeScript |
+## A few things I've built
 
-## Technical focus
+- **[NeuroWorm](https://github.com/sanjayBahadur/NeuroWorm)** — Can a simulated worm nervous system play Snake? An experiment with the *C. elegans* connectome and what its wiring actually contributes.
+- **[AlfredML](https://github.com/sanjayBahadur/AlfredML)** — A local assistant for asking questions about your own documents, using Ollama and retrieval-augmented generation.
+- **[WATERLINE](https://github.com/sanjayBahadur/WATERLINE)** — Exploring flood mapping from Sentinel-1 radar imagery with machine learning. Still in development.
+- **[Space Defenders](https://github.com/sanjayBahadur/SPACE-DEFENDERS-21st-Century)** — A browser game you control with hand gestures. [Play it here](https://spacedefenders.sanjaymalla.com).
 
-- **Machine learning:** retrieval-augmented generation, LLM agent orchestration, geospatial segmentation
-- **Systems and backend:** Go services, REST APIs in ASP.NET Core, Linux tooling
-- **Security:** post-quantum cryptography
-- **Languages:** TypeScript, Python, Go, Kotlin, Dart, C#, Bash
+My interests also take me into [post-quantum cryptography](https://github.com/sanjayBahadur/pqpake-artifact), [developer tools](https://github.com/sanjayBahadur/AFK-orchestrator), and [hardware experiments](https://github.com/sanjayBahadur/EEG-prosthetic-interface). I like having something I can run, test, or play with while I figure an idea out.
 
-## Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanjayBahadur/sanjayBahadur/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sanjayBahadur/sanjayBahadur/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man eating my GitHub contribution graph" src="https://raw.githubusercontent.com/sanjayBahadur/sanjayBahadur/output/pacman-contribution-graph.svg">
-</picture>
-
-</div>
-
-## Contact
-
-Open to software engineering and AI engineering opportunities. The best way to reach me is [email](mailto:mallasanjay2099@gmail.com).
+If you'd like to talk about a project or a software engineering / AI opportunity, [send me an email](mailto:mallasanjay2099@gmail.com).

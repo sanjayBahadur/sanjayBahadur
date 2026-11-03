@@ -12,17 +12,15 @@ I'm a computer science student at USF. I like turning signals into things I can 
   <a href="mailto:mallasanjay2099@gmail.com">Say hello</a>
 </p>
 
-My portfolio has the longer version: my background, project details, and an interactive globe to explore.
+My portfolio has the longer version: my background, more projects, and their details at: <a href="https://sanjaymalla.com">sanjaymalla.com</a>
 
-<a href="https://sanjaymalla.com">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanjayBahadur/sanjayBahadur/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sanjayBahadur/sanjayBahadur/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man eating my GitHub contributions. Click to explore my portfolio." src="https://raw.githubusercontent.com/sanjayBahadur/sanjayBahadur/output/pacman-contribution-graph.svg" width="100%">
+    <img alt="Pac-Man eating my GitHub contributions." src="https://raw.githubusercontent.com/sanjayBahadur/sanjayBahadur/output/pacman-contribution-graph.svg" width="100%">
   </picture>
-</a>
 
-<p align="center"><sub>A little arcade break for my contribution history. Click through for my portfolio.</sub></p>
+<p align="center"><sub>A little arcade break for my contribution history.</sub></p>
 
 ## A few things I've built
 
